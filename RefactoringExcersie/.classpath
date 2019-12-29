@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="magicNumber"/>
+	<classpathentry kind="src" path="controlFlag"/>
+	<classpathentry kind="src" path="assertion"/>
+	<classpathentry kind="src" path="nullObject"/>
+	<classpathentry kind="src" path="extractMethod"/>
+	<classpathentry kind="src" path="extractClass"/>
+	<classpathentry kind="src" path="replaceTypeCodeWithClass"/>
+	<classpathentry kind="src" path="replaceTypeCodeWithSubclasses"/>
+	<classpathentry kind="src" path="replaceTypeCodeWithStateStrategy"/>
+	<classpathentry kind="src" path="replaceErrorCodeWithException"/>
+	<classpathentry kind="src" path="replaceConstructorWithFactoryMethod"/>
+	<classpathentry kind="src" path="duplicateObservedData"/>
+	<classpathentry kind="src" path="replaceInheritanceWithDelegation"/>
+	<classpathentry kind="src" path="hideDelegate"/>
+	<classpathentry kind="src" path="teaseApartInheritance"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
