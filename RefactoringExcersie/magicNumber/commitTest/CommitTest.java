@@ -5,7 +5,8 @@ public class CommitTest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("branch checkout is done?");
+		System.out.println("commit is done?");
+		System.out.println("checkout branch is done?");
 	}
 
 }
