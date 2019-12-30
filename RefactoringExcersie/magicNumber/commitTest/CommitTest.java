@@ -9,6 +9,7 @@ public class CommitTest {
 		System.out.println("checkout branch is done?");
 		System.out.println("is hotfix branch independent?");
 		System.out.println("dasdasd");
+		System.out.println("123123");
 	}
 
 }
