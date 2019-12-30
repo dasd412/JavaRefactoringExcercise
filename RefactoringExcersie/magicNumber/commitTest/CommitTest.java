@@ -10,6 +10,7 @@ public class CommitTest {
 		System.out.println("is hotfix branch independent?");
 		System.out.println("dasdasd");
 		System.out.println("123123");
+		System.out.println("pull test");
 	}
 
 }
